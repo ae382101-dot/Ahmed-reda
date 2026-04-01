@@ -1,5 +1,3 @@
-![License](https://img.shields.io/github/license/Ahmed-Reda/Ahmed-Reda?style=flat)
-![ViewCount](http://bit.ly/Ahmed-Reda-Github-Visits)
 
 ### Hi there 👋 I'm Ahmed Reda,
 
