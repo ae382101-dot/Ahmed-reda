@@ -1,67 +1,48 @@
+ ## Ahmed Reda
+AI Automation Developer | Building Systems that Work Without You
+🎯 About Me
 
-### Hi there 👋 I'm Ahmed Reda,
+I help businesses and individuals eliminate repetitive work by building AI-powered automation systems and intelligent workflows.
 
-An **AI Automation Developer** passionate about building intelligent systems 🤖 that automate workflows, save time, and scale businesses.
+My focus is turning manual processes into scalable, automated systems using AI, APIs, and modern automation tools.
 
-I specialize in designing and developing **AI-powered automations**, integrating APIs, and creating smart solutions using modern tools.
+I don’t just write code — I design systems that save time, reduce cost, and scale operations.
 
-- ⚡ **Fun fact:** I believe automation is not just about saving time… it's about building systems that work *without you*.
-- 🤖 I’m deeply interested in **AI Agents, Automation Systems, and Workflow Optimization**
-- 🚀 Currently focused on building **real-world AI automation projects & scalable systems**
-- 💬 Talk to me about AI, Automation, SaaS ideas, Business systems, or even gaming 🎮
+🧭 What I’m Focused On
+Building real-world AI automation systems
+Designing SaaS-ready automation products
+Integrating AI models into business workflows
+Creating scalable systems using APIs + n8n + AI Agents
+🚀 What I Do
+AI-powered chatbots (RAG systems)
+Business process automation
+API integrations & workflow automation
+AI Agents for business tasks
+SaaS automation system development
+🧠 Tech Stack
+<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/> </p>
+⚙️ Tools & Systems
+n8n (Workflow Automation)
+OpenAI / LLM APIs
+REST APIs & Webhooks
+Google APIs (Drive, Sheets, etc.)
+RAG Systems (Knowledge AI)
+AI Agents Architecture
+📌 Current Focus
+Building a strong portfolio of AI automation systems
+Developing SaaS automation products
+Improving system design & backend architecture skills
+Working on real business use-cases (not just demos)
+📊 What I Build
+Systems that replace manual business operations
+Automations that generate leads & process data
+AI tools that act like digital employees
+Scalable backend automation infrastructures
+📫 Let's Connect
+LinkedIn: https://www.linkedin.com/in/ahmed-reda-751771374/
+GitHub: (add your link)
+Email: (optional)
+⚡ Philosophy
 
----
-
-### 🚀 What I Do
-
-- Build AI-powered chatbots (RAG systems)
-- Automate business workflows using tools like n8n
-- Integrate APIs & AI models into real systems
-- Design scalable automation solutions for clients
-- Create SaaS-ready automation products
-
----
-
-### 🧠 My Skills
-
-<p align="center">
-	<img title="JavaScript" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-	<img title="NodeJS" alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-	<img title="Docker" alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
-	<img title="Linux" alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-</p>
-
----
-
-### ⚙️ Tools & Technologies
-
-- n8n (Automation workflows)
-- OpenAI APIs
-- REST APIs & Webhooks
-- Google Drive integrations
-- RAG Systems (Retrieval-Augmented Generation)
-- AI Agents Development
-
----
-
-### 📌 Current Focus
-
-- Building strong **Portfolio Projects**
-- Developing **AI Automation SaaS ideas**
-- Improving **JavaScript & System Design skills**
-
----
-
-### 📫 Let's Connect
-
-- LinkedIn: (Add your link here)
-- Portfolio: (Add later)
-- Email: (Optional)
-
----
-
-<!--
-Ahmed-Reda/Ahmed-Reda is a ✨ special ✨ repository because its README appears on your GitHub profile.
--->
+Automation is not about coding tasks faster —
+it’s about removing the need for the task entirely.
