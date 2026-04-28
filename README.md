@@ -1,4 +1,4 @@
-## Ahmed Reda
+## My-profile
 AI Automation Developer | Building Systems that Replace Manual Work
 🎯 About Me
 
