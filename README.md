@@ -45,6 +45,8 @@ Includes RAG-based knowledge retrieval via Pinecone.
 Lead Generation Automation System
 
 AI-driven pipeline that extracts business leads from Google Maps using Apify, processes and scores them using AI, and automates outreach workflows via WhatsApp integration.
+  [View Project]
+ (https://github.com/ae382101-dot/Lead-generation-V1)
 
 📌 Current Focus
 Building a strong portfolio of AI automation systems
